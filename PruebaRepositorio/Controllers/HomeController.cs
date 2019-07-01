@@ -12,7 +12,7 @@ namespace PruebaRepositorio.Controllers
     {
         public IActionResult Index()
         {
-            //Hola de nuevo Mac
+            //Hola rama mac
             return View();
         }
 
