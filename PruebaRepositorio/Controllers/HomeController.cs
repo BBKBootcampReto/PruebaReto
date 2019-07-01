@@ -12,12 +12,13 @@ namespace PruebaRepositorio.Controllers
     {
         public IActionResult Index()
         {
-            //Hola de nuevo rama mac3
+           
             return View();
         }
 
         public IActionResult Privacy()
         {
+            //Hola de nuevo rama mac
             return View();
         }
 
